@@ -2,7 +2,7 @@ const footerHTML = `
   <footer class="section-footer">
     <div class="footer-container container">
       <div class="content_1">
-        <img src="../public/images/rahul1.png" alt="logo" />
+        <img src="./public/images/rahul1.png" alt="logo" />
         <p>
           Welcome to Rahul EcomStore, <br />
           your ultimate destination for
